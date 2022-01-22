@@ -8,7 +8,7 @@ The pandemic has changed the way we work and relate with our customers. People n
 -   Move the recording from PC to Server using WinSCP /var/lib/asterisk/sound/custom/
 -   Configuration based on implementation scenario
     - /etc/asterisk/pjsip.conf (Trunk Setup from Provider)
-    -  /etc/asterisk/extension.conf (Dial Plan) 
+    -  /etc/asterisk/extensions.conf (Dial Plan) 
     -  /etc/asterisk/queues.conf (Queue Configuration)
 - Testing of the use cases
 **Tools
